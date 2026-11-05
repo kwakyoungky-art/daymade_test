@@ -1,0 +1,6 @@
+{
+  "name": "데이메이드 (DAYMADE) - 시엠프레 탕정점 성장동영상",
+  "description": "시엠프레 탕정점 공식 제휴 프리미엄 돌잔치 성장동영상 제작 전문 브랜드 데이메이드(DAYMADE). 감성 시네마틱 영상 샘플, 제휴 특전 혜택 및 실시간 상담 신청.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
